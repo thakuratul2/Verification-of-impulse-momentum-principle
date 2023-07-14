@@ -4,7 +4,7 @@
 <b>Discipline | <b>Chemical Engineering
 :--|:--|
 <b> Lab | <b> Chemical Engineering Fluid Mechanics Lab
-<b> Experiment|     <b> To determine the co-efficient of pivot tube
+<b> Experiment|     <b> Verification of impulse momentum principle
 
 ### About the Experiment 
 
