@@ -51,12 +51,13 @@ The setup consists of a sump tank with centrifugal pump to circulate water. A ch
 ### RESULTS
 
 Rate of change of momentum for flat plate vane = ________ N
+<br>
 Rate of change of momentum for hemispherical vane = ________N
 
 
 ### PRECAUTIONS
 
-1.	1.	Never run the apparatus if power supply is less than 180 volts and above 230 volts.
+1.	Never run the apparatus if power supply is less than 180 volts and above 230 volts.
 2.	Always use clean water.
 3.	To prevent clogging of moving parts, run pump at least once in a fortnight.
 4.	Drain the apparatus completely after experimentation.
