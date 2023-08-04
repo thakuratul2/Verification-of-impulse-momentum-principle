@@ -2,7 +2,7 @@ This folder has
 
 ### Aim: 
 
-To study the effect of force on hemispherical vane and flat plate vane.
+To study the effect of force on hemispherical vane.
 
 ### THEORY
 
