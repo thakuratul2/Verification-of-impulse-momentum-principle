@@ -2,31 +2,31 @@ This folder has
 
 ### Aim: 
 
-To determine the local point pressure with the help of pitot tube.
+To study the effect of force on hemispherical vane and flat plate vane.
 
 ### THEORY
 
 
-It is a device used for measuring the velocity of flow at any point in a pipe. It is based on the principle that if the velocity of flow at a point becomes zero, there is increase in pressure due to the conversion of the kinetic energy into pressure energy. The pitot tube consists of a capillary tube, bend at right angle. The lower end is directed in the up stream direction. The liquid rises up in the tube due to conversion of kinetic energy into pressure energy. The velocity is determined by measuring the rise of liquid in the tube.
+When a plate is placed in the path of a jet, the jet exerts a force on the plate. This force can be calculated from the impulse momentum equation. Momentum equation is based on Newton's second law of motion, which states that “The algebraic sum of external forces applied to control volume of fluid in any direction is equal to the rate of change of momentum in that direction." The external forces include the components of the weight of the fluid and of the forces exerted externally upon the boundary surface of the control volume.
 
-When a pitot tube is used for measuring the velocity of flow in a pipe, the pitot tube may be inserted in the pipe. Since a pitot tube measures the stagnation pressure heat at its dipped end. The pressure head may be determined directly by conducting a differential manometer between the pitot tube and pressure taping at the pipe surface.
+If a vertical jet moving with velocity V is made to strike a target, which is free to move in the vertical direction, then a force will be exerted on the jet by the impact of jet. According to momentum equation, this force must be equal to the rate of change of momentum of the jet flow in the same direction.
+
+Due to impact of the jet on the flat stationary plate, the entire velocity of the jet is destroyed and due to the rate of change of momentum, force acts on the plate. The jet after striking will move along the plate. But the plate is at right angles to the jet. Hence the components of the velocity of the jet in the direction of the jet after striking it will be zero. The force exerted by the jet on the flat plate in the direction of the jet.
  
 
-<img src="images/pic.png"/>
+<img src="images/pic1.png"/>
 
-## Applications of this experiment are:
+### Actual Discharge (Qa)
 
-•	A ship or a boat can float on water because the weight of the displaced water is equal to the weight of the ship or boat.
-•	A submarine can dive into the water or can float on it. A submarine consists of ballast tanks that are filled with air or water. The tanks weigh less than an equal volume of water and make the sub float on the surface. If the tanks are partly filled with air, it is possible to make the submarine float at some depth of the water without either rising or sinking.
-•	Hot air balloons rise into the air because the density of the warmer air inside the balloon is less dense than the colder air outside. The basic principle of hot air balloon is the use of hot air to create buoyancy, which generates lift.
-•	Water striders can float on the water since its legs expel water, and the weight of the expelled water is equal to the floating force.
+The water flowing through the section of a pipe or a channel under the steady state conditions is collected in a collecting tank for a known time t. The rise of water level in the collecting tank is noted down. The actual discharge is
 
+<img src="images/pic2.png"/>
 
 
 
 ### DESCRIPTION
 
-The apparatus consists of sump tank with centrifugal pump. A pitot tube made of copper provided in the test section made of acrylic connected to pipeline with flow control valve. The pointer gauge is provided to measure the vertical position of pitot tube in test section. A manometer is provided to determine the pressure difference. Discharge is measured with the help of measuring tank and stop watch.
+The setup consists of a sump tank with centrifugal pump to circulate water. A chamber with two side glass is provided for visualization of impact of jet on vanes. Water from sump tank flows through a nozzle and strikes vertically to vane positioned above the nozzle. Two types of vanes are provided that can be fixed one at a time. Arrangement is made for the movement of the plate of the vane under the action of the jet and also because of the weight placed on the loading pan. Measuring tank and stop watch is provided for flow measurement.
 
 
 
@@ -50,7 +50,9 @@ The apparatus consists of sump tank with centrifugal pump. A pitot tube made of 
 
 ### RESULTS
 
-Coefficient of discharge of pitot tube, Cv  =
+Rate of change of momentum for flat plate vane = ________ N
+Rate of change of momentum for hemispherical vane = ________N
+
 
 ### PRECAUTIONS
 
