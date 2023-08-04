@@ -50,8 +50,6 @@ The setup consists of a sump tank with centrifugal pump to circulate water. A ch
 
 ### RESULTS
 
-Rate of change of momentum for flat plate vane = ________ N
-<br>
 Rate of change of momentum for hemispherical vane = ________N
 
 
